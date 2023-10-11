@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
             const perimeter = (2 *length) + (2*width);
             const diagonal = Math.sqrt(Math.pow(length, 2) + Math.pow(width, 2)); //aplicamos las funciones de js para elevar al cuadrado y raiz cuadrada
 
-            //Vinculamos el div del resultado con los resultados del js para que nos salgan por pantalla
-            result.innerHTML = `
+            //Hacemos que los resultados salgan por pantalla en el div 
+            resultOutput.innerHTML = `
             <p>Rectangle area: ${area.toFixed(2)}</p>
             <p>Rectangle perimeter: ${perimeter.toFixed(2)}</p>
             <p>Rectangle area: ${diagonal.toFixed(2)}</p>`
