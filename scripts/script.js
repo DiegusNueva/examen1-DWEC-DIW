@@ -1,6 +1,6 @@
 /**
  * @author Caterina Ilario
- * @GitHub 
+ * @GitHub https://github.com/cateilario/examen1-DWEC-DIW.git
  */ 
 
 //Hacemos que cargue todo el HTML y CSS antes del JavaScript
