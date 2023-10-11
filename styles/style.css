@@ -22,7 +22,7 @@ input{
     height: 25px; 
 }
 
-/*Estilos del botón y efecto al posicionar el cursor y al clickear*/
+/*Estilos del botón y efecto al posicionar cursor y clickear*/
 button{
     cursor: pointer;
     border: none;
@@ -40,6 +40,6 @@ button:active{
     background-color: #1351bc;
 }
 
-.output-container{
+.output-container{ 
     margin-top: 15px;
 }
