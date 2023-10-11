@@ -1,12 +1,13 @@
 *{
     font-family: 'Courier New', Courier, monospace;
 }
-
+/*Centramos div principal y el texto*/
 .container{
     display: flex;
     flex-direction:column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .length{
@@ -18,9 +19,10 @@
 }
 
 input{
-    height: 20px;
+    height: 25px; 
 }
 
+/*Estilos del botón y efecto al posicionar el cursor y al clickear*/
 button{
     cursor: pointer;
     border: none;
@@ -32,6 +34,10 @@ button{
 
 button:hover{
     background-color: #7cb2eb;
+}
+
+button:active{
+    background-color: #1351bc;
 }
 
 .output-container{

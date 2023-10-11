@@ -1,2 +1,2 @@
-# Examen DIW DWEC
+# Examen DIW-DWEC
 **Autor: Caterina Ilario Paz**
