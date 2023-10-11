@@ -1,8 +1,9 @@
 /**
  * @author Caterina Ilario
  * @GitHub 
- */
-//Hacemos que se cargue todo el HTML y CSS antes del JavaScript
+ */ 
+
+//Hacemos que cargue todo el HTML y CSS antes del JavaScript
 document.addEventListener("DOMContentLoaded", () => {
 
     //Vinculamos el JS y el template mediante id del botón y del resultado
